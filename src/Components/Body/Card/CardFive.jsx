@@ -14,8 +14,9 @@ function CardFive() {
     
     <p className='py-16'>Lorem ipsum dolor sit amet consectetur adipisicing elit. tenetur!</p>
     <button className='bg-black py-3 px-20 rounded-full text-white text-lg font-medium'>Get Started</button>
-
     </div>
+
+    
     </div>
     </div>
   )

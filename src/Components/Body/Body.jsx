@@ -5,6 +5,7 @@ import CardTwo from './Card/CardTwo'
 import CardThree from './Card/CardThree'
 import CardFour from './Card/CardFour'
 import CardFive from './Card/CardFive'
+import CardSix from './Card/CardSix'
 
 
 function Body() {
@@ -17,6 +18,7 @@ function Body() {
       <CardThree/>
       <CardFour/>
       <CardFive/>
+      <CardSix/>
       <Footer/>
     </div>
     
